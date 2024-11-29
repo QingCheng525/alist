@@ -49,10 +49,7 @@
             if (data.pass == 'exit') {
               parent.location.assign('/desktop/')
             } else {
-              if (
-                data.enable == true ||
-                jQuery('#alist_enable').prop('checked')
-              ) {
+              if (data.enable == true) {
                 jQuery('#alist_enable').prop('checked', true)
                 jQuery('#alist_enable').attr('oldvalue', 'enable')
               } else {
