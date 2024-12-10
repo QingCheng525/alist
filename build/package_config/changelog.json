@@ -1,0 +1,72 @@
+{
+  "package": "Alist",
+  "changelog": [
+    {
+      "version": "6.0.3",
+      "date": "2024-12-07",
+      "items": [
+        {
+          "caption": "Update Alist",
+          "detail": ["Update Alist to v3.40.0"]
+        }
+      ]
+    },
+    {
+      "version": "6.0.4",
+      "date": "2024-12-07",
+      "items": [
+        {
+          "caption": "Update Alist",
+          "detail": ["Update Alist to AList Beta Version"]
+        },
+        {
+          "caption": "Adjust the update process",
+          "detail": ["Adjust the update process"]
+        }
+      ]
+    }
+  ],
+  "translation": {
+    "UNASTranslation": [
+      {
+        "language": "简体中文",
+        "table": [
+          ["Update Alist", "0", "更新alist版本"],
+          ["Update Alist to v3.40.0", "0", "更新alist版本到v3.40.0"],
+          [
+            "Update Alist to AList Beta Version",
+            "0",
+            "更新alist版本到AList Beta Version"
+          ],
+          ["Adjust the update process", "0", "调整更新流程"]
+        ]
+      },
+      {
+        "language": "한국어",
+        "table": [
+          ["Update Alist", "0", "Alist업데이트"],
+          ["Update Alist to v3.40.0", "0", "Alist를v3.40.0으로업데이트"],
+          [
+            "Update Alist to AList Beta Version",
+            "0",
+            "Alist를AList Beta Version으로업데이트"
+          ],
+          ["Adjust the update process", "0", "업데이트프로세스조정"]
+        ]
+      },
+      {
+        "language": "日本語",
+        "table": [
+          ["Update Alist", "0", "Alistの更新"],
+          ["Update Alist to v3.40.0", "0", "Alistをv3.40.0に更新"],
+          [
+            "Update Alist to AList Beta Version",
+            "0",
+            "AlistをAList Beta Versionに更新"
+          ],
+          ["Adjust the update process", "0", "更新プロセスの調整"]
+        ]
+      }
+    ]
+  }
+}

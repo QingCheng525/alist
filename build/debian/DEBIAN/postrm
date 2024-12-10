@@ -4,6 +4,3 @@
 
 set -e
 set -o pipefail
-
-# 删除程序文件
-rm -rf /unas/apps/SOFT_DIR

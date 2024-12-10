@@ -5,8 +5,3 @@
 
 set -e
 set -o pipefail
-
-# 删除旧程序备份
-if [ -d "/unas/apps/SOFT_DIR_old" ]; then
-    rm -rf /unas/apps/SOFT_DIR_old
-fi
